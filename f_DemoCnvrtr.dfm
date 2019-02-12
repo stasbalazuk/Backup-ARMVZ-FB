@@ -1,6 +1,6 @@
 object d_Frm_Main: Td_Frm_Main
-  Left = 366
-  Top = 200
+  Left = 358
+  Top = 244
   Width = 577
   Height = 327
   Caption = #1050#1086#1085#1074#1077#1088#1090#1086#1088' v. 2.0'
@@ -627,7 +627,7 @@ object d_Frm_Main: Td_Frm_Main
     CalColors.TitleBackColor = clTeal
     CalColors.MonthBackColor = clMoneyGreen
     CalColors.TrailingTextColor = clGray
-    Date = 39245.476787824080000000
+    Date = 39245.386036527780000000
     ImeName = 'Russian'
     TabOrder = 6
   end
